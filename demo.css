@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+}
+p{
+    background-color:blanchedalmond ;
+    border: 1px solid;
+    letter-spacing: 5px;
+}
+h1{
+    text-transform: uppercase;
+    background-color: blueviolet;
+}
+h2{
+    color: violet;
+}
